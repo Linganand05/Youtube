@@ -124,7 +124,7 @@ npm install react-router-dom axios redux react-redux
 
 # Run the Project 
 
-cd final-youtube
+cd YouTube-clone-main
 npm start
 
 Note : when we give npm start then simultaneously run both frontend and backend
